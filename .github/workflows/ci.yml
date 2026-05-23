@@ -45,6 +45,6 @@ jobs:
         run: pip install -e ".[dev]"
 
       - name: Run integration tests
-        run: pytest -v -m integration
+        run: pytest -v tests/test_cli.py::TestIntegration tests/test_client.py::TestIntegration
         env:
           TRAILBOT_INTEGRATION: "1"
