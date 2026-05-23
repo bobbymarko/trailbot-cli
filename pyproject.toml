@@ -14,9 +14,16 @@ dependencies = []
 [project.scripts]
 trailbot = "trailbot.cli:main"
 
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
 [project.urls]
-Homepage = "https://github.com/bobertoni/trailbot-cli"
-Issues = "https://github.com/bobertoni/trailbot-cli/issues"
+Homepage = "https://github.com/bobbymarko/trailbot-cli"
+Issues = "https://github.com/bobbymarko/trailbot-cli/issues"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: live API tests (set TRAILBOT_INTEGRATION=1)"]
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/trailbot"]

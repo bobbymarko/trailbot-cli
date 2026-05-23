@@ -1,0 +1,442 @@
+{
+  "pageProps": {
+    "trail": {
+      "trailId": "DetroitMountain",
+      "trailName": "Detroit Mountain",
+      "description": "Unfortunately,  we need to push Opening day for  back a day to SUNDAY, MAY 24th for Lift Service & Rentals due to soft, wet and slippery conditions.    All trails are currently CLOSED.  Weather pending, Singletrack could opening late afternoon for hiking & biking- watch  for updated trail report.  *get Trailbot app for instant updates.",
+      "trailStatus": "Closed",
+      "city": "Detroit Lakes",
+      "state": "MN",
+      "country": "US",
+      "lat": 46.8143695,
+      "long": -95.7868447,
+      "zipcode": "56501",
+      "timezone": "America/Chicago",
+      "pictures": [
+        "https://storage.googleapis.com/trail-updates-pictures/600189f7-7636-4a30-abde-c7f02a41c66a.jpeg"
+      ],
+      "active": true,
+      "visibility": "public",
+      "updatedAt": 1779543361248,
+      "slug": "detroit-mountain",
+      "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/844975b1-cfd4-4810-8c05-45ad16a5a512.jpeg",
+      "coverUrl": "https://storage.googleapis.com/trailbot-covers-prod/f36a9a8a-37a0-4ccf-b58e-f628f801fec2.jpeg",
+      "joinUrl": null,
+      "donationUrl": null,
+      "ticketUrl": null,
+      "volunteerUrl": null,
+      "sourceDescription": "Updates are provided directly by trail maintainers.",
+      "ebikePolicy": "SUMMER ONLY:\nClass 1 E-Bikes (Pedal Assisted Bikes) with max speed of 20mph are allowed.\n  All Type 2 & 3 e-Bikes along with e-motos are not allowed.  \nAnything with a throttle are not allowed.  Pedal power only.",
+      "weatherPolicy": null,
+      "notes": "SUMMER TRAILS at Detroit Mountain.\n\nDetroit Mountain maintains over 13 miles of purpose built Singletrack mountain bike trails, open to bikers, hikers and trail runners or just plain exploring.\n-All users must sign digital waiver (QR CODE at the Trailhead). \n-Trail use is FREE Thanks to our friends at SCHEELS along with donations through Friends of the Mountain.\n-TREK Bike Rentals available, reserve online at detroitmountain.com\n\n*Lift Served Downhill trails open Saturdays & Sundays starting Memorial Day weekend.",
+      "amenities": [
+        "aed",
+        "changing-area",
+        "drinking-water",
+        "oversized-vehicle-parking",
+        "free-parking",
+        "picnic-area",
+        "restrooms",
+        "snack-bar",
+        "trail-map",
+        "trail-signage",
+        "lift-service",
+        "tire-pump",
+        "bike-rentals",
+        "skills-area",
+        "bike-repair-station"
+      ],
+      "waiverUrl": null,
+      "url": "https://detroitmountain.com",
+      "socials": {
+        "Twitter": "DMRA_Trails",
+        "Singletracks": "https://www.singletracks.com/bike-trails/detroit-mountain-recreation-area/",
+        "MTB Project": "https://www.mtbproject.com/directory/8013654/detroit-mountain-recreation-area",
+        "Facebook": "DMRAinc",
+        "Trailforks": "https://www.trailforks.com/region/detroit-mountain-recreation-area-23381/",
+        "Instagram": "detroitmountain"
+      },
+      "maps": {
+        "Downhill/Gravity Trails": "https://detroitmountain.com/wp-content/uploads/2023/03/2021-MTB-Map-8x11_print-02.webp",
+        "Winter XC": "https://detroitmountain.com/wp-content/uploads/2024/12/WINTER-TRAILS-24-25-01.webp",
+        "XC Singletrack": "https://detroitmountain.com/wp-content/uploads/2023/03/2021-MTB-Map-8x11_print-01.webp"
+      },
+      "agency": "Private Land",
+      "statusTags": [
+        "wet"
+      ],
+      "organizationId": "LnYj5gALUFfExGVHQeqg",
+      "organization": {
+        "name": "Detroit Mountain Recreation Area",
+        "shortName": "DMRA",
+        "url": "http://www.detroitmountain.com",
+        "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/5e1df8b4-623b-47b9-96a8-9b789a24e740.jpg",
+        "slug": "dmra",
+        "flags": [],
+        "embedKey": "70cc7955-5ee9-423f-ada3-20ab2146abb7",
+        "timezone": "America/Chicago"
+      },
+      "street": "29409 170th St",
+      "embedKey": "3fc924be-4c6e-4d06-9dae-3475f55079c3",
+      "latestUpdateId": "u_N5EVYqa-jPABDWVQy6d",
+      "fields": {},
+      "customFields": {},
+      "last24Precip": 0.3,
+      "last24PrecipType": "rain",
+      "regions": [
+        "Northwest MN"
+      ]
+    },
+    "org": {
+      "organizationId": "LnYj5gALUFfExGVHQeqg",
+      "name": "Detroit Mountain Recreation Area",
+      "shortName": "DMRA",
+      "slug": "dmra",
+      "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/5e1df8b4-623b-47b9-96a8-9b789a24e740.jpg",
+      "flags": null,
+      "embedKey": "70cc7955-5ee9-423f-ada3-20ab2146abb7",
+      "timezone": "America/Chicago"
+    },
+    "amenityMap": {
+      "aed": {
+        "label": "AED"
+      },
+      "bike-rentals": {
+        "label": "Bike Rentals"
+      },
+      "bike-repair-station": {
+        "label": "Repair Station"
+      },
+      "bike-shop": {
+        "label": "Bike Shop"
+      },
+      "bike-storage": {
+        "label": "Bike Storage"
+      },
+      "bike-wash": {
+        "label": "Bike Wash"
+      },
+      "camp-sites": {
+        "label": "Camp Sites"
+      },
+      "changing-area": {
+        "label": "Changing Area"
+      },
+      "donation-box": {
+        "label": "Donation Box"
+      },
+      "drinking-water": {
+        "label": "Drinking Water"
+      },
+      "ebike-charging": {
+        "label": "E-Bike Charging"
+      },
+      "ev-charging": {
+        "label": "EV Charging"
+      },
+      "first-aid": {
+        "label": "First Aid Kit"
+      },
+      "free-parking": {
+        "label": "Parking Lot (Free)"
+      },
+      "lift-service": {
+        "label": "Lift Service"
+      },
+      "oversized-vehicle-parking": {
+        "label": "Oversized Vehicle Parking"
+      },
+      "paid-parking": {
+        "label": "Parking Lot (Paid)"
+      },
+      "pay-box": {
+        "label": "Pay Box/Kiosk"
+      },
+      "picnic-area": {
+        "label": "Picnic Area"
+      },
+      "restrooms": {
+        "label": "Restrooms"
+      },
+      "shuttle-service": {
+        "label": "Shuttle Service"
+      },
+      "skills-area": {
+        "label": "Skills Area"
+      },
+      "snack-bar": {
+        "label": "Snack Bar"
+      },
+      "street-parking": {
+        "label": "Parking (Street)"
+      },
+      "tire-pump": {
+        "label": "Tire Pump"
+      },
+      "trail-map": {
+        "label": "Trail Map"
+      },
+      "trail-signage": {
+        "label": "Trail Signage"
+      },
+      "vending-machines": {
+        "label": "Vending Machines"
+      }
+    },
+    "weather": {
+      "_id": "DetroitMountain",
+      "forecast": [
+        {
+          "timestamp": 1779541200,
+          "temp": 53,
+          "dewPoint": 51,
+          "wind": 8,
+          "windDir": 177,
+          "humidity": 92,
+          "uvi": 1,
+          "pop": 53,
+          "desc": "Drizzle",
+          "daylight": true,
+          "precipType": "rain",
+          "precipIntensity": 0.56,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 48,
+          "precipAmount": 0.011417328999999999,
+          "windGust": 15,
+          "cloudCover": 88
+        },
+        {
+          "timestamp": 1779544800,
+          "temp": 54,
+          "dewPoint": 51,
+          "wind": 8,
+          "windDir": 211,
+          "humidity": 90,
+          "uvi": 2,
+          "pop": 7,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "rain",
+          "precipIntensity": 0.51,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 48,
+          "precipAmount": 0.017322844,
+          "windGust": 13,
+          "cloudCover": 99
+        },
+        {
+          "timestamp": 1779548400,
+          "temp": 54,
+          "dewPoint": 51,
+          "wind": 9,
+          "windDir": 252,
+          "humidity": 90,
+          "uvi": 2,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 48,
+          "precipAmount": 0,
+          "windGust": 13,
+          "cloudCover": 95
+        },
+        {
+          "timestamp": 1779552000,
+          "temp": 54,
+          "dewPoint": 50,
+          "wind": 9,
+          "windDir": 283,
+          "humidity": 88,
+          "uvi": 3,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 47,
+          "precipAmount": 0,
+          "windGust": 13,
+          "cloudCover": 93
+        },
+        {
+          "timestamp": 1779555600,
+          "temp": 54,
+          "dewPoint": 50,
+          "wind": 10,
+          "windDir": 279,
+          "humidity": 86,
+          "uvi": 3,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 45,
+          "precipAmount": 0,
+          "windGust": 16,
+          "cloudCover": 99
+        },
+        {
+          "timestamp": 1779559200,
+          "temp": 56,
+          "dewPoint": 49,
+          "wind": 10,
+          "windDir": 274,
+          "humidity": 78,
+          "uvi": 4,
+          "pop": 0,
+          "desc": "Mostly Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 49,
+          "precipAmount": 0,
+          "windGust": 16,
+          "cloudCover": 87
+        },
+        {
+          "timestamp": 1779562800,
+          "temp": 55,
+          "dewPoint": 49,
+          "wind": 11,
+          "windDir": 281,
+          "humidity": 80,
+          "uvi": 3,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 46,
+          "precipAmount": 0,
+          "windGust": 17,
+          "cloudCover": 99
+        },
+        {
+          "timestamp": 1779566400,
+          "temp": 56,
+          "dewPoint": 48,
+          "wind": 10,
+          "windDir": 278,
+          "humidity": 75,
+          "uvi": 3,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 49,
+          "precipAmount": 0,
+          "windGust": 17,
+          "cloudCover": 97
+        },
+        {
+          "timestamp": 1779570000,
+          "temp": 59,
+          "dewPoint": 48,
+          "wind": 10,
+          "windDir": 276,
+          "humidity": 66,
+          "uvi": 3,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 52,
+          "precipAmount": 0,
+          "windGust": 18,
+          "cloudCover": 93
+        },
+        {
+          "timestamp": 1779573600,
+          "temp": 60,
+          "dewPoint": 48,
+          "wind": 10,
+          "windDir": 279,
+          "humidity": 64,
+          "uvi": 2,
+          "pop": 0,
+          "desc": "Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 53,
+          "precipAmount": 0,
+          "windGust": 17,
+          "cloudCover": 92
+        },
+        {
+          "timestamp": 1779577200,
+          "temp": 60,
+          "dewPoint": 48,
+          "wind": 9,
+          "windDir": 278,
+          "humidity": 63,
+          "uvi": 1,
+          "pop": 0,
+          "desc": "Mostly Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 55,
+          "precipAmount": 0,
+          "windGust": 16,
+          "cloudCover": 81
+        },
+        {
+          "timestamp": 1779580800,
+          "temp": 60,
+          "dewPoint": 48,
+          "wind": 7,
+          "windDir": 280,
+          "humidity": 64,
+          "uvi": 1,
+          "pop": 0,
+          "desc": "Partly Cloudy",
+          "daylight": true,
+          "precipType": "clear",
+          "precipIntensity": 0,
+          "snowfallIntensity": 0,
+          "temperatureApparent": 59,
+          "precipAmount": 0,
+          "windGust": 12,
+          "cloudCover": 42
+        }
+      ],
+      "updatedAt": 1779542960147,
+      "last24Precip": 0.3,
+      "last24PrecipType": "rain",
+      "sunset": 1779588089417,
+      "sunrise": 1779532872703
+    },
+    "routes": [],
+    "user": null,
+    "token": null,
+    "isFollowing": false,
+    "userIsMember": false,
+    "membership": null,
+    "newsItems": [],
+    "eventItems": [],
+    "orgTrails": [
+      {
+        "trailId": "DetroitMountain",
+        "trailName": "Detroit Mountain",
+        "city": "Detroit Lakes",
+        "state": "MN"
+      }
+    ]
+  },
+  "__N_SSP": true
+}

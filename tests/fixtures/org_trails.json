@@ -1,0 +1,2987 @@
+{
+  "pageProps": {
+    "organization": {
+      "_id": "OUrkWOo2IydWZaG1Hy81",
+      "organizationId": "OUrkWOo2IydWZaG1Hy81",
+      "name": "Minnesota Off-Road Cyclists",
+      "shortName": "MORC",
+      "slug": "morc",
+      "url": "https://www.morcmtb.org/",
+      "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+      "flags": [
+        "volunteers",
+        "donations",
+        "memberships"
+      ],
+      "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+      "timezone": "America/Chicago",
+      "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+      "partnerLevels": [
+        {
+          "name": "Steel",
+          "order": 0
+        },
+        {
+          "name": "Carbon",
+          "order": 1
+        },
+        {
+          "name": "Titanium",
+          "order": 2
+        },
+        {
+          "name": "Aluminum",
+          "order": 3
+        }
+      ],
+      "volunteers": {
+        "tags": [
+          "Dirt Boss",
+          "Trail Steward",
+          "MORC Board",
+          "Crew Regular"
+        ],
+        "workTypes": [
+          "Administration",
+          "Leaf Blowing",
+          "Snow Grooming",
+          "Overgrowth Trimming",
+          "Trailwork Session"
+        ],
+        "requireLocation": false,
+        "contactEmail": "volunteer@morcmtb.org",
+        "timeTrackingStyle": "simple"
+      },
+      "parentOrganizationId": null
+    },
+    "trails": [
+      {
+        "trailId": "3b716fa1-af6b-4aa8-aff1-11ff473072d1",
+        "trailName": "Battle Creek",
+        "description": "",
+        "trailStatus": "Open",
+        "city": "St Paul",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.936068,
+        "long": -93.0216788,
+        "zipcode": "55119",
+        "timezone": "America/Chicago",
+        "pictures": [],
+        "active": true,
+        "visibility": "public",
+        "updatedAt": 1779232268111,
+        "slug": "battle-creek",
+        "logoUrl": null,
+        "coverUrl": null,
+        "joinUrl": "https://www.morcmtb.org/store",
+        "donationUrl": "https://www.morcmtb.org/store",
+        "ticketUrl": null,
+        "volunteerUrl": "https://www.morcmtb.org/battle-creek",
+        "sourceDescription": "Updates are provided directly by trail maintainers.",
+        "ebikePolicy": null,
+        "weatherPolicy": null,
+        "notes": "Store to purchase Battle Creek swag! https://lifebrand.co/store/brand/my-brand/battle-creek-mtb-st-paul/\n\nBattle Creek Rec Center Trailhead (75 Winthrop St S). Quickest way to the singletrack is up the hill South of the Rec Center.  Follow the looping Cat Walk trail up to the entrance of the Higher Ed singletrack. \n\nAnother trail entrance is on Battle Creek Road between Upper Afton Rd and Lower Afton Rd.  Look for the singletrack signs, and there's usually cars parked nearby.  From here you can access the trails above the Rec Center, and also the trails along the bluff (like Wall of Death) and get access to the Overlook trail. \n\n(Note: there is another parking lot available off Pt. Douglas Road - we don't recommend using it, as there have been quite a few break-ins at the Pt. Douglas lot.)\n\nBattle Creek offers quite an extensive network of trails, as compared to most metropolitan trail systems. In many areas of the park, it's easy to forget you're surrounded by suburbs on all sides. Battle Creek has something for riders of all technical abilities, with trails running the gamut from smooth, hard-pack ski trails to expert-level singletrack. The terrain is quite hilly, so expect the trails to give you a good workout. Although hilly, the climbs tend to be relatively short, with the longest single climb gaining approximately 110' in elevation. Trails are mainly fast hardpack, with a few sandy sections and a few rocks & roots.",
+        "amenities": [],
+        "waiverUrl": null,
+        "url": "https://www.ramseycounty.us/residents/parks-recreation/parks-trails/trails/mountain-biking-trails",
+        "socials": {
+          "Facebook": "battlecreekmountainbike",
+          "Trailforks": "https://www.trailforks.com/region/battle-creek-5538/",
+          "MTB Project": "https://www.mtbproject.com/directory/8013784/battle-creek-regional-park"
+        },
+        "maps": {
+          "Trails (PDF)": "https://assets.ramseycountymn.gov/files/migrated-files/2017_Battle_Creek_Off_Road_Cycling_Draft_Map.pdf"
+        },
+        "agency": "Ramsey County",
+        "statusTags": [],
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "organization": {
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "slug": "morc",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago"
+        },
+        "street": "Battle Creek Rd",
+        "embedKey": "08db40fd-7459-4468-8017-dab108fa4641",
+        "latestUpdateId": "4-jbgs5X5dPoKBlyOt-Tz",
+        "fields": {},
+        "customFields": {},
+        "last24Precip": 0.2,
+        "last24PrecipType": "rain",
+        "regions": [
+          "Twin Cities Metro"
+        ]
+      },
+      {
+        "trailId": "2b741916-94ba-418e-b468-12bc0c14c2ff",
+        "trailName": "Bertram Chain of Lakes",
+        "description": "Precipitation is making for some soggy trails.  Please stay off trails until things have dried out, thank you.",
+        "trailStatus": "Closed",
+        "city": "Monticello",
+        "state": "MN",
+        "country": "US",
+        "lat": 45.283094,
+        "long": -93.8574287,
+        "zipcode": "55362",
+        "timezone": "America/Chicago",
+        "pictures": [],
+        "active": true,
+        "visibility": "public",
+        "updatedAt": 1779474778136,
+        "slug": "bertram-chain-of-lakes",
+        "logoUrl": null,
+        "coverUrl": null,
+        "joinUrl": "https://www.morcmtb.org/store",
+        "donationUrl": "https://www.morcmtb.org/store",
+        "ticketUrl": null,
+        "volunteerUrl": "https://www.morcmtb.org/bertramchainoflakes",
+        "sourceDescription": "Updates are provided directly by trail maintainers.",
+        "ebikePolicy": null,
+        "weatherPolicy": "Please do not ride the trail when it is wet/muddy.  If you are leaving marks in the trail or your tires are picking up a lot of dirt, it is too wet to ride.  Trail generally needs 12-24 hours to dry after a rain event (depending on rainfall amount and time of year).",
+        "notes": "Two parking areas are available, the south entrance off 90th street, provides users access to 4 miles of hiking trails, 14 miles of single track mountain bike trails, an access to Bertram Lake and  a carry-in access to Long Lake which will allow users the opportunity to paddle Long, Mud and First Lakes\n\nThe main park entrance is located at 9842 Briarwood Avenue NE, Monticello MN on the North end of Bertram Lake, this entrance provides users access to the swimming beach, hiking trials, picnic facilities, picnic shelter (available for reservation), and a four season climate controlled chalet, and Camp Manitou facilities/day camp.",
+        "amenities": [],
+        "waiverUrl": null,
+        "url": "https://www.wrightcountymn.gov/Facilities/Facility/Details/Bertram-Chain-of-Lakes-Regional-Park-52",
+        "socials": {
+          "Facebook": "BertramSingletrack",
+          "Trailforks": "https://www.trailforks.com/region/bertram-chain-of-lakes-13707/",
+          "MTB Project": "https://www.mtbproject.com/trail/3505586/bertram-chain-of-lakes"
+        },
+        "maps": {
+          "Trails (PDF)": "https://www.wrightcountymn.gov/DocumentCenter/View/15145/Bertram-Park-Map?bidId="
+        },
+        "agency": "Wright County",
+        "statusTags": [],
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "organization": {
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "slug": "morc",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago"
+        },
+        "street": "1744 90th Street NE",
+        "embedKey": "7861a68c-f28e-4435-8585-9e3451acf72d",
+        "latestUpdateId": "oyHB7Y2JaOe36UC-9leYB",
+        "fields": {},
+        "customFields": {},
+        "last24Precip": 0.2,
+        "last24PrecipType": "rain",
+        "regions": [
+          "Twin Cities Metro"
+        ]
+      },
+      {
+        "trailId": "BraemarTrails",
+        "trailName": "Braemar Trails",
+        "description": "Sneaky b-line opened tonight.\n\nHelp pack it in! ",
+        "trailStatus": "Open",
+        "city": "Edina",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.86880179810791,
+        "long": -93.3803976730164,
+        "zipcode": "55439",
+        "timezone": "America/Chicago",
+        "pictures": [
+          "https://firebasestorage.googleapis.com/v0/b/trail-updates-pictures/o/dd53556c-64b2-4919-aeba-432adb053903.jpg?alt=media"
+        ],
+        "active": true,
+        "visibility": "public",
+        "updatedAt": 1779323333211,
+        "slug": "braemar-trails",
+        "logoUrl": null,
+        "coverUrl": null,
+        "joinUrl": null,
+        "donationUrl": null,
+        "ticketUrl": null,
+        "volunteerUrl": null,
+        "sourceDescription": "Updates are provided directly by trail maintainers.",
+        "ebikePolicy": null,
+        "weatherPolicy": null,
+        "notes": "Parking only at designated trailhead locations. Multiple segments of trail system linked by paved shared use trail.",
+        "amenities": [],
+        "waiverUrl": null,
+        "url": "https://www.edinamn.gov/1782/Parks-Trails",
+        "socials": {
+          "Instagram": "edinamn",
+          "Facebook": "edinamn"
+        },
+        "maps": {
+          "Trails (PDF)": "https://firebasestorage.googleapis.com/v0/b/trail-updates-3da4a.appspot.com/o/Braemar%20MTB_Ped%20Trail%2011x17%20as%20built.pdf?alt=media&token=a11d5051-f1bd-4775-82b4-4bd16e31b33f"
+        },
+        "agency": "City of Edina, MN",
+        "statusTags": [],
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "organization": {
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "slug": "morc",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago"
+        },
+        "street": "John Harris Dr",
+        "embedKey": "cd98a545-b51f-424d-bc1c-ab7af89695e9",
+        "latestUpdateId": "Ak5zciJNGIkEeH67Mzc5u",
+        "fields": {},
+        "customFields": {},
+        "last24Precip": 0.3,
+        "last24PrecipType": "rain",
+        "regions": [
+          "Twin Cities Metro"
+        ]
+      },
+      {
+        "trailId": "41ecd511-9274-45a0-957f-8cab16012e9f",
+        "trailName": "Carver Lake Park",
+        "description": "Conditions should be great today especially later in the day. There is a tree down on Shore Shimmy. Use caution. The trail crew will remove that this evening. ",
+        "trailStatus": "Open",
+        "city": "Woodbury",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.90311699999999,
+        "long": -92.979422,
+        "zipcode": "55125",
+        "timezone": "America/Chicago",
+        "pictures": [],
+        "active": true,
+        "visibility": "public",
+        "updatedAt": 1779281649317,
+        "slug": "carver-lake-park",
+        "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/7c88f237-398b-42b8-91bb-5e87f033ec49.jpg",
+        "coverUrl": "https://storage.googleapis.com/trailbot-covers-prod/bedc529d-bff1-4425-9381-0c9f1666f965.jpg",
+        "joinUrl": "https://www.morcmtb.org/store",
+        "donationUrl": "https://www.morcmtb.org/store",
+        "ticketUrl": null,
+        "volunteerUrl": "https://www.morcmtb.org/carver-lake",
+        "sourceDescription": "Updates are provided directly by trail maintainers.",
+        "ebikePolicy": "Electric bicycles (e-bikes) that meet the definition of \"electric-assist bicycle\" in MN Statue 169.011 are allowed on the trail. Motorized bicycles and other electric cycles (e.g. e-motos) are not allowed on the trail.",
+        "weatherPolicy": "Please monitor trail conditions before heading out. We recommend waiting at least 12-24 hours (in some cases more) after a rainfall. When riding if you are sinking in and leaving tire ruts or foot print impressions, we ask that you do not ride and hop off the trail. Thank you!",
+        "notes": null,
+        "amenities": [
+          "trail-map",
+          "picnic-area",
+          "skills-area",
+          "trail-signage",
+          "free-parking",
+          "bike-repair-station",
+          "drinking-water",
+          "restrooms",
+          "tire-pump"
+        ],
+        "waiverUrl": null,
+        "url": "https://www.woodburymn.gov/447/Carver-Lake-Off-Road-Cycling-Trail",
+        "socials": {
+          "Facebook": "mtbcarverlake",
+          "Trailforks": "https://www.trailforks.com/region/carver-lake-park/",
+          "MTB Project": "https://www.mtbproject.com/trail/3520161/carver-lake-park"
+        },
+        "maps": {
+          "Trails (PDF)": "https://www.woodburymn.gov/DocumentCenter/View/425/Carver-Lake-Park-Off-Road-Cycling-Trail-Map-PDF?bidId="
+        },
+        "agency": "City of Woodbury, MN",
+        "statusTags": [],
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "organization": {
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "slug": "morc",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago"
+        },
+        "street": "3175 Century Ave S",
+        "embedKey": "d37f7ac5-d6c1-4df7-a45b-66bae89b616e",
+        "latestUpdateId": "1xmr0F-qxwxBg3MftICH-",
+        "fields": {},
+        "customFields": {},
+        "last24Precip": 0.2,
+        "last24PrecipType": "rain",
+        "regions": [
+          "Twin Cities Metro"
+        ]
+      },
+      {
+        "trailId": "25e0fce0-9777-4623-9897-ae57fa2dcc39",
+        "trailName": "Cottage Grove Bike Park",
+        "description": "All the trails are open. ",
+        "trailStatus": "Open",
+        "city": "Cottage Grove",
+        "state": "MN",
+        "country": "US",
+        "lat": 44.8473887,
+        "long": -92.9699413,
+        "zipcode": "55016",
+        "timezone": "America/Chicago",
+        "pictures": [],
+        "active": true,
+        "visibility": "public",
+        "updatedAt": 1778986801825,
+        "slug": "cottage-grove-bike-park",
+        "logoUrl": null,
+        "coverUrl": null,
+        "joinUrl": null,
+        "donationUrl": null,
+        "ticketUrl": null,
+        "volunteerUrl": null,
+        "sourceDescription": "Updates are provided directly by trail maintainers.",
+        "ebikePolicy": null,
+        "weatherPolicy": null,
+        "notes": "Cottage Grove Bike Park is open dawn till dusk, weather permitting, and includes a 4x track, two pump tracks, and a complete dirt jump plaza.",
+        "amenities": [],
+        "waiverUrl": null,
+        "url": "https://www.morcmtb.org/cottage-grove-bike-park/",
+        "socials": {
+          "Twitter": "cottagegrovebp",
+          "Instagram": "cottagegrovebp",
+          "Facebook": "cottagegrovebp",
+          "Trailforks": "https://www.trailforks.com/skillpark/cottage-grove-bike-park/",
+          "MTB Project": "https://www.mtbproject.com/trail/7000927/cottage-grove-bike-park"
+        },
+        "maps": {},
+        "agency": "City of Cottage Grove, MN",
+        "statusTags": [
+          "dry"
+        ],
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "organization": {
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "slug": "morc",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago"
+        },
+        "street": "7050 Meadow Grass Avenue South",
+        "embedKey": "729d20d9-ea73-4aad-bf56-542d57ef1cdb",
+        "latestUpdateId": "CegqeChJMHhtzuCE1XZiv",
+        "fields": {},
+        "customFields": {},
+        "last24Precip": 0.1,
+        "last24PrecipType": "rain",
+        "regions": [
+          "Twin Cities Metro"
+        ]
+      }
+    ],
+    "newsItems": [
+      {
+        "id": "oNnWCO2MPqRgZ4FQxTLra",
+        "_id": "oNnWCO2MPqRgZ4FQxTLra",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "news",
+        "title": "Lebanon Hills Sustainable Trails Study",
+        "content": "Have you noticed the orange and white flags while out on the trails in Lebanon Hills Regional Park? Those are part of the [Lebanon Hills Sustainable Trails Study](https://www.co.dakota.mn.us/parks/CurrentProjects/Pages/sustainable-trails.aspx \"Lebanon Hills Sustainable Trails Study\") for possible trail re-alignments (orange) and emergency access routes (white with blue dots). The current flagged routes are tentative and subject for review. We (MORC volunteers maintaining the MTB trails) are working with park staff to minimize impacts with the mountain bike trails and provide our feedback on route alignments.&#x20;\n\n*FYI - Buckthorn removal is tentatively scheduled for the western park section this fall / winter. MTB trail access might be impacted. This is a separate project from the trail study, more details to come.*",
+        "publishDate": 1777303739412,
+        "status": "published",
+        "images": [
+          "https://storage.googleapis.com/trail-updates-pictures/2ab3b157-316c-42d0-88ba-ca7c5cb138eb.png"
+        ],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "https://www.co.dakota.mn.us/parks/CurrentProjects/Pages/sustainable-trails.aspx",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "slug": "lebanon-hills-sustainable-trails-study",
+        "createdAt": 1776872375079,
+        "updatedAt": 1777303739911,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "3SQr9cY57CZwIdzltVwMF",
+        "_id": "3SQr9cY57CZwIdzltVwMF",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "news",
+        "title": "Hillside Tree Planting - Volunteers Needed!",
+        "content": "***SOS!!*** **Hillside needs help!** The trees for our tree planting event on May 16th showed up waaaay too early and we need to get them planted before they die! We are moving the planting event up to this weekend, both days, starting at 9am until ??. If you can help at all, we would appreciate it! See the events posted on Trailbot for more details;\n\n* [https://trailbot.com/trails/morc/news/hillside-tree-planting-saturday](https://trailbot.com/trails/morc/news/hillside-tree-planting-saturday)&#x20;\n* [https://trailbot.com/trails/morc/news/hillside-tree-planting-sunday](https://trailbot.com/trails/morc/news/hillside-tree-planting-sunday)&#x20;\n\nFeel free to reach out to Derek with questions! [HillsideMTBPark@gmail.com](mailto:HillsideMTBPark@gmail.com)",
+        "publishDate": 1776958710741,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "923d48e8-9c9a-465b-b02f-d2823731667d",
+          "dbef1a89-e0a9-46fb-94a6-4eb68b4aec0a",
+          "1bfd110a-bc33-4024-a62f-cad5702fac81",
+          "ff41d044-a495-4a11-a9ed-b1e6265377e4",
+          "d932e5fc-a4a4-4e33-820d-864556d0c0ec",
+          "25e0fce0-9777-4623-9897-ae57fa2dcc39",
+          "KiChiSagaParkSingletrack",
+          "ec5949d8-b11a-4b1c-a659-22fbf7577b64",
+          "2b741916-94ba-418e-b468-12bc0c14c2ff",
+          "ef3854d5-73b6-47c1-bf31-4efe21e4fee1",
+          "41ecd511-9274-45a0-957f-8cab16012e9f",
+          "BraemarTrails",
+          "31044f9c-d539-4b16-b22f-29ea0a288642",
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3",
+          "071c3aba-f614-4801-b447-c9ba215c6482",
+          "4c82f3f0-9f45-4e16-a436-f490fbea81a4",
+          "10e3fba6-063b-46af-a1af-22184be83cd1",
+          "3b716fa1-af6b-4aa8-aff1-11ff473072d1",
+          "07ade61a-4969-45f8-be64-fe8b135376de"
+        ],
+        "url": "https://trailbot.com/trails/morc/hillside-park",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "slug": "hillside-tree-planting-volunteers-needed",
+        "createdAt": 1776958711108,
+        "updatedAt": 1776958711108,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "VRAmZknkQVuDZzVB2F9dR",
+        "_id": "VRAmZknkQVuDZzVB2F9dR",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "news",
+        "title": "Volunteer Coordinator Opening (volunteer opportunity)",
+        "content": "Hey Friends!&#x20;\n\nWe are super excited to start using Trailbot for volunteer tracking with MORC trails. **We need some help with this transition.**\n\nMORC is looking for a volunteer to help us coordinate the transition to **Trailbot for Volunteers.** You'd be putting together training materials, video directions, and helping trail stewards use Trailbot to help coordinate, manage and track volunteers. we think this would be a great opportunity for some high school students who need volunteer hours (for racing, NHS, school, or because they are great people), or someone who's good at putting systems together. Hoping to get a couple events off the ground this spring, and then transition most of our trails to using the system to announce trail work events.&#x20;\n\nClick on Volunteering for any trail, explain that you'd like to help as a volunteer coordinator. We'll take it from there!\n\nThe MORC Board",
+        "publishDate": 1772317022453,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "071c3aba-f614-4801-b447-c9ba215c6482",
+          "07ade61a-4969-45f8-be64-fe8b135376de",
+          "10e3fba6-063b-46af-a1af-22184be83cd1",
+          "1bfd110a-bc33-4024-a62f-cad5702fac81",
+          "25e0fce0-9777-4623-9897-ae57fa2dcc39",
+          "2b741916-94ba-418e-b468-12bc0c14c2ff",
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3",
+          "31044f9c-d539-4b16-b22f-29ea0a288642",
+          "3b716fa1-af6b-4aa8-aff1-11ff473072d1",
+          "41ecd511-9274-45a0-957f-8cab16012e9f",
+          "4c82f3f0-9f45-4e16-a436-f490fbea81a4",
+          "923d48e8-9c9a-465b-b02f-d2823731667d",
+          "BraemarTrails",
+          "KiChiSagaParkSingletrack",
+          "d932e5fc-a4a4-4e33-820d-864556d0c0ec",
+          "dbef1a89-e0a9-46fb-94a6-4eb68b4aec0a",
+          "ec5949d8-b11a-4b1c-a659-22fbf7577b64",
+          "ef3854d5-73b6-47c1-bf31-4efe21e4fee1",
+          "ff41d044-a495-4a11-a9ed-b1e6265377e4"
+        ],
+        "url": "",
+        "createdBy": "irTGfgPcuRSb5f4A1bOTCXrQBlv1",
+        "updatedBy": "irTGfgPcuRSb5f4A1bOTCXrQBlv1",
+        "slug": "volunteer-coordinator-opening-volunteer-opportunity",
+        "createdAt": 1772317022879,
+        "updatedAt": 1772317022879,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      }
+    ],
+    "eventItems": [
+      {
+        "id": "I5gfezi4ItoFF3Lm2cfXw",
+        "_id": "I5gfezi4ItoFF3Lm2cfXw",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.&#x20;\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1776797925244,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1779835500000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-6",
+        "createdAt": 1776797925601,
+        "updatedAt": 1779391811506,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "VOxnFY61bxWtKcidFp1DE",
+        "_id": "VOxnFY61bxWtKcidFp1DE",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Bertram Trail work",
+        "content": "Come out and help us build and maintain trails at Bertram Chain of Lakes!  We meet at the container adjacent to the entrance of the park at 5:30pm.  We would recommend long pants, sturdy shoes, safety glasses, bug spray and water.  We provide all the tools.  Hope to see you there!",
+        "publishDate": 1779392008969,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1779921000000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-trail-work",
+        "createdAt": 1779392030859,
+        "updatedAt": 1779394047052,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "AO5sJZx9ZsTr1miHpf3z-",
+        "_id": "AO5sJZx9ZsTr1miHpf3z-",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Battle Creek Trailwork",
+        "content": "No experience needed, nor anything to bring.  We provide the tools and direction on tasks for the evening.  We recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested), personal protective items likes gloves and glasses.  Ticks are out already so bug spray is also great, plus water of course.\n\nAll volunteers need to sign a waiver (one per year).",
+        "publishDate": 1779232646607,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "3b716fa1-af6b-4aa8-aff1-11ff473072d1"
+        ],
+        "url": "",
+        "createdBy": "8BNQocX4hlYMwHQCBdDudkPCNA92",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1780354800000,
+        "endDateTime": null,
+        "location": "Parking lot near Battle Creek rec center",
+        "address": {
+          "formattedAddress": "75 South Winthrop Street, Saint Paul, Minnesota 55119, United States",
+          "lat": 44.938946,
+          "lng": -93.012204
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "battle-creek-trailwork-2",
+        "createdAt": 1779232384513,
+        "updatedAt": 1779394062332,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "CR6mCDnF1yImQnODQSF7Y",
+        "_id": "CR6mCDnF1yImQnODQSF7Y",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779214572466,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1780440300000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-7",
+        "createdAt": 1776875063495,
+        "updatedAt": 1779391820279,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "sr9HoB2woZfGl7tHk9kWe",
+        "_id": "sr9HoB2woZfGl7tHk9kWe",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Bertram trail work",
+        "content": "Come out and help us build and maintain trails at Bertram Chain of Lakes!  We meet at the container adjacent to the entrance of the park at 5:30pm.  We would recommend long pants, sturdy shoes, safety glasses, bug spray and water.  We provide all the tools.  Hope to see you there!",
+        "publishDate": 1779392067580,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1780525800000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-trail-work-2",
+        "createdAt": 1779392089690,
+        "updatedAt": 1779394083693,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "vYon3tMKrWsjAWB-3Jd-O",
+        "_id": "vYon3tMKrWsjAWB-3Jd-O",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779214712572,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1781045100000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-8",
+        "createdAt": 1779214712876,
+        "updatedAt": 1779391828896,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "fKSQvnPbcQOlj2v-3gVmK",
+        "_id": "fKSQvnPbcQOlj2v-3gVmK",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Bertram trail work",
+        "content": "Come out and help us build and maintain trails at Bertram Chain of Lakes! We meet at the container adjacent to the entrance of the park at 5:30pm. We would recommend long pants, sturdy shoes, safety glasses, bug spray and water. We provide all the tools. Hope to see you there!",
+        "publishDate": 1779392142376,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1781130600000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-trail-work-3",
+        "createdAt": 1779392164015,
+        "updatedAt": 1779394094293,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "6JKV9ypElkiN6yE4ds8Px",
+        "_id": "6JKV9ypElkiN6yE4ds8Px",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.",
+        "publishDate": 1779214759106,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1781649900000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-9",
+        "createdAt": 1779214759487,
+        "updatedAt": 1779391836620,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "eFAIOmvay7NWnjV9DCP-E",
+        "_id": "eFAIOmvay7NWnjV9DCP-E",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Bertram trail work",
+        "content": "Come out and help us build and maintain trails at Bertram Chain of Lakes! We meet at the container adjacent to the entrance of the park at 5:30pm. We would recommend long pants, sturdy shoes, safety glasses, bug spray and water. We provide all the tools. Hope to see you there!",
+        "publishDate": 1779392182880,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1781735400000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-trail-work-4",
+        "createdAt": 1779392204547,
+        "updatedAt": 1779394106329,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "tH4eQDKr-EFd07_7y8txx",
+        "_id": "tH4eQDKr-EFd07_7y8txx",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779214807748,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1782254700000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-10",
+        "createdAt": 1779214808207,
+        "updatedAt": 1779391844830,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "ydzm9Yeqr0wGiMufAWmsp",
+        "_id": "ydzm9Yeqr0wGiMufAWmsp",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Bertram trail work",
+        "content": "Come out and help us build and maintain trails at Bertram Chain of Lakes! We meet at the container adjacent to the entrance of the park at 5:30pm. We would recommend long pants, sturdy shoes, safety glasses, bug spray and water. We provide all the tools. Hope to see you there!",
+        "publishDate": 1779392213954,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1782340200000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": false,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-trail-work-5",
+        "createdAt": 1779392235733,
+        "updatedAt": 1779394122847,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "RrhPZPYg46UWXkG93ouuy",
+        "_id": "RrhPZPYg46UWXkG93ouuy",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.",
+        "publishDate": 1779214849844,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1782859500000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-11",
+        "createdAt": 1779214850151,
+        "updatedAt": 1779391855072,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "H9HlCoY9HB03_9pmBLDZY",
+        "_id": "H9HlCoY9HB03_9pmBLDZY",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779214935837,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1783464300000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-12",
+        "createdAt": 1779214936148,
+        "updatedAt": 1779391863366,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "szlwHyd5kQuU-aB87aXeA",
+        "_id": "szlwHyd5kQuU-aB87aXeA",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779214977622,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1784069100000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-13",
+        "createdAt": 1779214977991,
+        "updatedAt": 1779391699178,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "yss4JNE942NbRYV_Ya2SS",
+        "_id": "yss4JNE942NbRYV_Ya2SS",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "BERTRAM SADDLE BUSTER MMBS RACE#6",
+        "content": "The Bertram Saddle Buster, part of the Minnesota Mountain Bike Race Series, will be held on July 19th.  Pre-registration only, be sure to register soon to secure your spot in one of the best events of the summer!  More information here: [https://www.mnmtbseries.com/bertram-mountain-bike-race](https://www.mnmtbseries.com/bertram-mountain-bike-race)",
+        "publishDate": 1779393982577,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2b741916-94ba-418e-b468-12bc0c14c2ff"
+        ],
+        "url": "",
+        "createdBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "updatedBy": "732TzCh72OcB3XVHM3lU1DRIVjR2",
+        "startDateTime": 1784462400000,
+        "endDateTime": null,
+        "location": "",
+        "address": null,
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "bertram-saddle-buster-mmbs-race6",
+        "createdAt": 1779394004447,
+        "updatedAt": 1779394148121,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "YTue0Mwt7uXW3HoAWIiHS",
+        "_id": "YTue0Mwt7uXW3HoAWIiHS",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Grill-Out \ud83c\udf54",
+        "content": "Each summer we have one Tuesday evening where we skip throwing dirt, rolling logs & lifting rocks to instead grill burgers, enjoy BYOB & BS the night away. We provide the burgers with all the fixin's, chips & cookies. Those with special food requirements should reach out on the email list or comment here to get in touch with us. More details to come, sometimes there is a pre-ride. **This is an invite event for those who attended at least one trail work session for the season**, so be sure to get a trail work session in before mid-summer! Please RSVP here so we know how many burgers to get.",
+        "publishDate": 1779216276311,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1784674800000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "street": "4801 Johnny Cake Ridge Road",
+          "city": "Eagan",
+          "state": "MN",
+          "zipcode": "55122",
+          "country": "us",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": true,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-grill-out",
+        "createdAt": 1779216276690,
+        "updatedAt": 1779216276690,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "-9jEzRJZlU9cum4XqSNWa",
+        "_id": "-9jEzRJZlU9cum4XqSNWa",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.",
+        "publishDate": 1779215017133,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1785278700000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-14",
+        "createdAt": 1779215017434,
+        "updatedAt": 1779391871406,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "M1nFffX4OfVg66UDBQ5os",
+        "_id": "M1nFffX4OfVg66UDBQ5os",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215092709,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1785883500000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-15",
+        "createdAt": 1779215093120,
+        "updatedAt": 1779391879475,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "YuKcP_KyLUJEFoJ9u1Ivh",
+        "_id": "YuKcP_KyLUJEFoJ9u1Ivh",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215162061,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1786488300000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-16",
+        "createdAt": 1779215162524,
+        "updatedAt": 1779391888345,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "vCCbHcJSya8SDgWn_-Bod",
+        "_id": "vCCbHcJSya8SDgWn_-Bod",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215204700,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1787093100000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-17",
+        "createdAt": 1779215204974,
+        "updatedAt": 1779391898711,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "4LZT8Ftd1_GEGBFmRkgOB",
+        "_id": "4LZT8Ftd1_GEGBFmRkgOB",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215248197,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1787697900000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-18",
+        "createdAt": 1779215248479,
+        "updatedAt": 1779391906995,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "PHKyIf_EjeqpSCSBomLqO",
+        "_id": "PHKyIf_EjeqpSCSBomLqO",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215295101,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1788302700000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-19",
+        "createdAt": 1779215295466,
+        "updatedAt": 1779391914540,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "UrbSieMg83wmgcrIfLV0v",
+        "_id": "UrbSieMg83wmgcrIfLV0v",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215334685,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1788907500000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-20",
+        "createdAt": 1779215334988,
+        "updatedAt": 1779391922123,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "f1l4a6iVz3W4UGm35wgG_",
+        "_id": "f1l4a6iVz3W4UGm35wgG_",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "Lebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215375874,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1789512300000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-21",
+        "createdAt": 1779215376165,
+        "updatedAt": 1779391930407,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      },
+      {
+        "id": "CPDWd9FuJEvPUCcKsJype",
+        "_id": "CPDWd9FuJEvPUCcKsJype",
+        "organizationId": "OUrkWOo2IydWZaG1Hy81",
+        "type": "event",
+        "title": "Lebanon Hills Trail Work",
+        "content": "**This is typically the last trail work session of the season, late September can be TBD too so keep an eye here for changes.**\n\nLebanon Hills has trail work sessions nearly every Tuesday through summer. Details on specific tasks for the evening will be added a day or two prior to the work session. Come out and spend the evening throwing dirt, moving rocks, or rolling logs while talkin' about your dream bike.\n\nNo experience needed, nor anything to bring, we provide the tools and direction on tasks for the evening. We just recommend wearing something that can get dirty (pants and sturdy shoes/boots suggested) and other personal protective items like gloves and glasses. Waivers need to be signed and safety speech before trail work begins is required.&#x20;",
+        "publishDate": 1779215531878,
+        "status": "published",
+        "images": [],
+        "trailSystems": [
+          "2cce9ec0-a0aa-41ca-9348-9849803fe7b3"
+        ],
+        "url": "",
+        "createdBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "updatedBy": "fMLCICXVJKVavZ5xifzcixTxvbf1",
+        "startDateTime": 1790117100000,
+        "endDateTime": null,
+        "location": "West Trailhead - Picnic Shelter",
+        "address": {
+          "formattedAddress": "4801 Johnny Cake Ridge Road, Eagan, Minnesota 55122, United States",
+          "lat": 44.78156,
+          "lng": -93.1884
+        },
+        "isAllDay": false,
+        "rsvpEnabled": false,
+        "commentsEnabled": true,
+        "visibility": "public",
+        "attendeeCounts": {
+          "going": 0,
+          "notGoing": 0,
+          "interested": 0,
+          "invited": 0
+        },
+        "commentsCount": 0,
+        "slug": "lebanon-hills-trail-work-22",
+        "createdAt": 1779215532174,
+        "updatedAt": 1779391938786,
+        "organization": {
+          "_id": "OUrkWOo2IydWZaG1Hy81",
+          "organizationId": "OUrkWOo2IydWZaG1Hy81",
+          "name": "Minnesota Off-Road Cyclists",
+          "shortName": "MORC",
+          "slug": "morc",
+          "url": "https://www.morcmtb.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6b99e26e-c135-4de4-adc9-54eda2e46476.jpg",
+          "flags": [
+            "volunteers",
+            "donations",
+            "memberships"
+          ],
+          "embedKey": "36dc2fd4-babb-4355-bd81-0722b7c84838",
+          "timezone": "America/Chicago",
+          "description": "Join us on social media for updates and to stay informed on all things mountain biking in the metro.\n\nThe Minnesota Off-Road Cyclists organization is a 501(c)(3) nonprofit organization and donations are tax deductible.  Federal Tax ID# 86-1101323.",
+          "partnerLevels": [
+            {
+              "name": "Steel",
+              "order": 0
+            },
+            {
+              "name": "Carbon",
+              "order": 1
+            },
+            {
+              "name": "Titanium",
+              "order": 2
+            },
+            {
+              "name": "Aluminum",
+              "order": 3
+            }
+          ],
+          "volunteers": {
+            "tags": [
+              "Dirt Boss",
+              "Trail Steward",
+              "MORC Board",
+              "Crew Regular"
+            ],
+            "workTypes": [
+              "Administration",
+              "Leaf Blowing",
+              "Snow Grooming",
+              "Overgrowth Trimming",
+              "Trailwork Session"
+            ],
+            "requireLocation": false,
+            "contactEmail": "volunteer@morcmtb.org",
+            "timeTrackingStyle": "simple"
+          },
+          "parentOrganizationId": null
+        }
+      }
+    ],
+    "user": null,
+    "token": null,
+    "userIsMember": false,
+    "membership": null,
+    "partner": {
+      "id": "GyldvVtz78Vvn5t73OO76",
+      "name": "Myslajek Kemp & Spencer",
+      "url": "https://myslajek.com/",
+      "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/f3b5ddad-dc87-448e-a096-e178f4f5e223.png",
+      "level": "Steel",
+      "order": 7
+    },
+    "renewalToken": null
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,486 @@
+{
+  "pageProps": {
+    "areas": {
+      "AL": {
+        "active": true,
+        "displayName": "Alabama",
+        "lat": 33.02889126712726,
+        "long": -86.76095915025246,
+        "regionMap": "https://www.dot.state.al.us/maps/img/RegionCountiesMap.png",
+        "regions": {
+          "AL-EastCentral": "East Central AL",
+          "AL-North": "Northern AL",
+          "AL-Southeast": "Southeast AL",
+          "AL-Southwest": "Southwest AL",
+          "AL-WestCentral": "West Central AL"
+        }
+      },
+      "FL": {
+        "active": true,
+        "displayName": "Florida",
+        "lat": 28.227185543641184,
+        "long": -82.87423233368484,
+        "regionMap": "https://upload.wikimedia.org/wikipedia/commons/3/30/Map_of_Florida_Regions_with_Cities.svg",
+        "regions": {
+          "FL-Central": "Central FL",
+          "FL-North": "Northern FL",
+          "FL-Panhandle": "FL Panhandle",
+          "FL-South": "Southern FL"
+        }
+      },
+      "IL": {
+        "active": true,
+        "displayName": "Illinois",
+        "lat": 40.11398394034074,
+        "long": -89.28350308885663,
+        "regionMap": "https://dnr.illinois.gov/content/dam/soi/en/web/dnr/hunting/documents/il-region-map.pdf",
+        "regions": {
+          "IL-EastCentral": "East Central IL",
+          "IL-Northeast": "Northeast IL",
+          "IL-Northwest": "Northwest IL",
+          "IL-Southern": "Southern IL",
+          "IL-WestCentral": "West Central IL"
+        }
+      },
+      "IN": {
+        "active": true,
+        "displayName": "Indiana",
+        "lat": 40.10445615739413,
+        "long": -86.15608029010968,
+        "regionMap": "https://upload.wikimedia.org/wikipedia/commons/f/f0/IndianaRegions.png",
+        "regions": {
+          "IN-Central": "Central IN",
+          "IN-IndyMetro": "Indianapolis Metro",
+          "IN-Northern": "Northern IN",
+          "IN-Northwest": "Northwest IN",
+          "IN-Southern": "Southern IN",
+          "IN-Southwest": "Southwest IN"
+        }
+      },
+      "IA": {
+        "active": true,
+        "displayName": "Iowa",
+        "lat": 42.1529055401275,
+        "long": -93.50230570859058,
+        "regionMap": "",
+        "regions": {
+          "IA-All": "IA All"
+        }
+      },
+      "KS": {
+        "active": true,
+        "displayName": "Kansas",
+        "lat": 38.5802012596758,
+        "long": -98.31206244740738,
+        "regionMap": "https://firebasestorage.googleapis.com/v0/b/trail-updates-3da4a.appspot.com/o/Screenshot%202024-06-18%20at%209.41.19%E2%80%AFAM.png?alt=media&token=0fb8aee1-a997-4a71-a984-b7770a910365",
+        "regions": {
+          "KS-NorthCentral": "North Central KS",
+          "KS-Northeast": "Northeast KS",
+          "KS-Northwest": "Northwest KS",
+          "KS-SouthCentral": "South Central KS",
+          "KS-Southeast": "Southeast KS",
+          "KS-Southwest": "Southwest KS"
+        }
+      },
+      "KY": {
+        "active": true,
+        "displayName": "Kentucky",
+        "lat": 37.60169325539661,
+        "long": -85.22170745156832,
+        "regionMap": "",
+        "regions": {
+          "KY-All": "Kentucky"
+        }
+      },
+      "LA": {
+        "active": true,
+        "displayName": "Louisiana",
+        "lat": 31.069906165195047,
+        "long": -92.0311904257115,
+        "regionMap": "",
+        "regions": {
+          "LA-All": "Louisiana"
+        }
+      },
+      "MI": {
+        "active": true,
+        "displayName": "Michigan",
+        "lat": 43.93636806298509,
+        "long": -86.3687504055194,
+        "regions": {
+          "MI-Central": "Central/Mid MI",
+          "MI-Northern": "Northern MI",
+          "MI-Southeastern": "Southeastern MI",
+          "MI-UpperPeninsula": "Upper Peninsula",
+          "MI-Western": "Western MI"
+        }
+      },
+      "MN": {
+        "active": true,
+        "displayName": "Minnesota",
+        "lat": 46.358056,
+        "long": -94.200833,
+        "regions": {
+          "Central Minnesota": "Central MN",
+          "Cuyuna Lakes": "Cuyuna Lakes",
+          "Duluth": "Duluth/Northeast MN",
+          "Northwest MN": "Northwest MN",
+          "Southeast MN": "Southeast MN",
+          "Southwest MN": "Southwest MN",
+          "Twin Cities Metro": "Twin Cities Metro",
+          "Wisconsin": "Wisconsin"
+        }
+      },
+      "MS": {
+        "active": true,
+        "displayName": "Mississippi",
+        "lat": 32.92852221197842,
+        "long": -89.61622855645204,
+        "regionMap": "",
+        "regions": {
+          "MS-All": "Mississippi"
+        }
+      },
+      "NC": {
+        "active": true,
+        "displayName": "North Carolina",
+        "lat": 35.500427604682415,
+        "long": -78.57867455757675,
+        "regionMap": "",
+        "regions": {
+          "NC-All": "North Carolina"
+        }
+      },
+      "ND": {
+        "active": true,
+        "displayName": "North Dakota",
+        "lat": 47.563710977353516,
+        "long": -100.43552343319898,
+        "regionMap": "",
+        "regions": {
+          "ND-Central": "Central ND",
+          "ND-East": "Eastern ND",
+          "ND-West": "Western ND"
+        }
+      },
+      "OH": {
+        "active": true,
+        "displayName": "Ohio",
+        "lat": 40.21863096450694,
+        "long": -82.679985462319,
+        "regionMap": "https://ohio.org/home/regions",
+        "regions": {
+          "OH-Central": "Central OH",
+          "OH-Northeast": "Northeast OH",
+          "OH-Northwest": "Northwest OH",
+          "OH-Southeast": "Southeast OH",
+          "OH-Southwest": "Southwest OH"
+        }
+      },
+      "OK": {
+        "active": true,
+        "displayName": "Oklahoma",
+        "lat": 35.432682,
+        "long": -97.96175,
+        "regionMap": "",
+        "regions": {
+          "OK-All": "Oklahoma"
+        }
+      },
+      "ON": {
+        "active": true,
+        "displayName": "Ontario",
+        "lat": 48.4024408,
+        "long": -89.4053296,
+        "regionMap": "https://files.ontario.ca/province_regions.gif",
+        "regions": {
+          "ON-SaultSteMarie": "Sault Ste. Marie",
+          "ON-ThunderBay": "Thunder Bay",
+          "ON-Toronto": "Toronto"
+        }
+      },
+      "SC": {
+        "active": true,
+        "displayName": "South Carolina",
+        "lat": 33.96853292827595,
+        "long": -80.71321322693011,
+        "regionMap": "",
+        "regions": {
+          "SC-All": "SC-All"
+        }
+      },
+      "SD": {
+        "active": true,
+        "displayName": "South Dakota",
+        "lat": 44.54344670726851,
+        "long": -100.13977537119013,
+        "regionMap": "",
+        "regions": {
+          "SD-All": "SD-All"
+        }
+      },
+      "TN": {
+        "active": true,
+        "displayName": "Tennessee",
+        "lat": 35.837357538437395,
+        "long": -86.09181684543695,
+        "regionMap": "",
+        "regions": {
+          "TN-East": "Eastern TN",
+          "TN-Middle": "Middle TN",
+          "TN-West": "Western TN"
+        }
+      },
+      "TX": {
+        "active": true,
+        "displayName": "Texas",
+        "lat": 31.39218502173303,
+        "long": -99.17048433862291,
+        "regionMap": "",
+        "regions": {
+          "TX-All": "TX-All"
+        }
+      },
+      "WI": {
+        "active": true,
+        "displayName": "Wisconsin",
+        "lat": 44.624441,
+        "long": -90.00415,
+        "regionMap": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Map_of_Wisconsin_AllRegionsDNR-Highlighted.svg/1920px-Map_of_Wisconsin_AllRegionsDNR-Highlighted.svg.png",
+        "regions": {
+          "WI-Northeast": "Northeast WI",
+          "WI-Northern": "Northern WI",
+          "WI-SouthCentral": "South Central WI",
+          "WI-Southeast": "Southeast WI",
+          "WI-WestCentral": "West Central WI"
+        }
+      },
+      "WY": {
+        "active": true,
+        "displayName": "Wyoming",
+        "lat": 42.999524669952905,
+        "long": -107.5515651748631,
+        "regionMap": "",
+        "regions": {
+          "WY-All": "WY-All"
+        }
+      }
+    },
+    "trails": [
+      {
+        "trailId": "92873406-a4fd-4025-8675-f1e126ee66e8",
+        "trailName": "Air Capital Memorial Park Singletrack ",
+        "organization": {
+          "name": "Kansas Single Track Society ",
+          "shortName": "KSS",
+          "url": "https://kssingletrack.com/",
+          "logoUrl": null,
+          "slug": "kss",
+          "flags": [],
+          "embedKey": "d3d9c329-4275-4845-b4c1-adbcf5e31f2c",
+          "timezone": null
+        },
+        "city": "Wichita",
+        "state": "KS",
+        "regions": [
+          "KS-SouthCentral"
+        ],
+        "slug": "air-capital-memorial-park-singletrack"
+      },
+      {
+        "trailId": "airline-bike-park",
+        "trailName": "Airline Bike Park",
+        "organization": {
+          "name": "Tarheel Trailblazers",
+          "shortName": "Tarheel Trailblazers",
+          "url": "https://www.tarheeltrailblazers.com",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/be5ed66a-bfdf-4cc2-be55-252344f29ffa.jpg",
+          "slug": "tarheel-trailblazers",
+          "flags": [],
+          "embedKey": "a2af745e-7ffd-46f0-be9b-1f5ca5a0f66b",
+          "timezone": null
+        },
+        "city": "Charlotte",
+        "state": "NC",
+        "regions": [
+          "NC-All"
+        ],
+        "slug": "airline-bike-park"
+      },
+      {
+        "trailId": "AlpineHills",
+        "trailName": "Alpine Hills",
+        "organization": {
+          "name": "Rockford Area Mountain Bikers",
+          "shortName": "RAMBA",
+          "url": "https://www.facebook.com/RockfordAreaMountainBikers",
+          "logoUrl": "",
+          "slug": "ramba",
+          "flags": [
+            "donations",
+            "memberships",
+            "volunteers"
+          ],
+          "embedKey": "0eb20ef5-50b5-4932-b0eb-68674d785757",
+          "timezone": "America/Chicago"
+        },
+        "city": "Rockford",
+        "state": "IL",
+        "regions": [
+          "IL-Northwest"
+        ],
+        "slug": "alpine-hills"
+      },
+      {
+        "trailId": "7784bab1-e936-4587-af13-25d5348a05ff",
+        "trailName": "Anderson Park",
+        "organization": {
+          "name": "Mid-Michigan Mountain Biking Association",
+          "shortName": "MMMBA",
+          "url": "https://mmmba.org",
+          "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/b32cb652-484b-4cca-9870-a41d305565a7.jpg",
+          "slug": "mmmba",
+          "flags": [
+            "volunteers"
+          ],
+          "embedKey": "ce477bbc-05c7-4b94-a442-8a7b1732d900",
+          "timezone": "America/New_York"
+        },
+        "city": "Lansing",
+        "state": "MI",
+        "regions": [
+          "MI-Central"
+        ],
+        "slug": "anderson-park"
+      },
+      {
+        "trailId": "AndresBikePark",
+        "trailName": "Andres Bike Park",
+        "organization": {
+          "name": "Chicago Area Mountain Bikers",
+          "shortName": "CAMBr",
+          "url": "https://www.cambr.org",
+          "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/6c7f92d4-dc87-4886-8540-dc42a9fb6fef.jpg",
+          "slug": "cambr",
+          "flags": [
+            "donations",
+            "volunteers"
+          ],
+          "embedKey": "5a9709c9-2598-4aa5-ab03-5cebdf1459f1",
+          "timezone": "America/Chicago"
+        },
+        "city": "Carpentersville",
+        "state": "IL",
+        "regions": [
+          "IL-Northeast"
+        ],
+        "slug": "andres-bike-park"
+      },
+      {
+        "trailId": "AngelMounds",
+        "trailName": "Angel Mounds",
+        "organization": {
+          "name": "Evansville Mountain Bike Association",
+          "shortName": "EMBA",
+          "url": null,
+          "logoUrl": null,
+          "slug": "emba",
+          "flags": [],
+          "embedKey": "48f3ab09-33df-464d-a915-a463ab30a40a",
+          "timezone": null
+        },
+        "city": "Evansville",
+        "state": "IN",
+        "regions": [
+          "IN-Southwest"
+        ],
+        "slug": "angel-mounds"
+      },
+      {
+        "trailId": "ArcadiaLakeTrail",
+        "trailName": "Arcadia Lake Trail",
+        "organization": {
+          "name": "Oklahoma Mountain Bike Association",
+          "shortName": "OMBA",
+          "url": "https://www.rideomba.org/",
+          "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/e2c66825-553d-40d8-b74d-911a84865a64.jpg",
+          "slug": "omba",
+          "flags": [
+            "volunteers"
+          ],
+          "embedKey": "2215d87c-1229-4cc0-9597-81ce434cb035",
+          "timezone": "America/Chicago"
+        },
+        "city": "Arcadia",
+        "state": "OK",
+        "regions": [
+          "OK-All"
+        ],
+        "slug": "arcadia-lake-trail"
+      },
+      {
+        "trailId": "Area178",
+        "trailName": "Area 178",
+        "organization": {
+          "name": "Community for Outdoor Recreation, Biking, and Adventure",
+          "shortName": "CORBA",
+          "url": "https://corbatrails.org",
+          "logoUrl": "https://storage.googleapis.com/trailbot-user-pictures-prod/5ca063c6-8134-45de-bda7-5e114d10a64c.png",
+          "slug": "corba",
+          "flags": [],
+          "embedKey": "b3edb2ad-dc75-46a7-80bc-a9067ad74a3b",
+          "timezone": null
+        },
+        "city": "Chippewa Falls",
+        "state": "WI",
+        "regions": [
+          "WI-WestCentral"
+        ],
+        "slug": "area-178"
+      },
+      {
+        "trailId": "Area255",
+        "trailName": "Area 25.5",
+        "organization": {
+          "name": "CORP Trails",
+          "shortName": "CORP",
+          "url": "https://corptrails.org",
+          "logoUrl": "https://storage.googleapis.com/trailbot-covers-prod/6cc35ebc-da82-41f5-8c59-ddbf51cfd5f0.jpg",
+          "slug": "corp",
+          "flags": [],
+          "embedKey": "346550f2-4179-41a3-a403-ed60aa4eb495",
+          "timezone": null
+        },
+        "city": "Cross Plains",
+        "state": "WI",
+        "regions": [
+          "WI-SouthCentral"
+        ],
+        "slug": "area-255"
+      },
+      {
+        "trailId": "Area51",
+        "trailName": "Area 51",
+        "organization": {
+          "name": "North Mississippi Trail Alliance ",
+          "shortName": "NMTA",
+          "url": "https://nmta-sorba.org",
+          "logoUrl": null,
+          "slug": "nmta",
+          "flags": [],
+          "embedKey": "2e9460eb-9572-4c34-bc47-83b9153786b2",
+          "timezone": null
+        },
+        "city": "Hernando",
+        "state": "MS",
+        "regions": [
+          "MS-All"
+        ],
+        "slug": "area-51"
+      }
+    ],
+    "user": null,
+    "token": null
+  },
+  "__N_SSP": true
+}
